@@ -3,10 +3,30 @@
     background-color: blanchedalmond;
 }
 
+/*Day Five*/
+h1 {
+    background-color: #C58940;
+    font-size: 45px;
+}
+
+h4 {
+    font-size: 15pt;  /*Day Five*/
+}
+
 .last-heading {
     color: crimson;
+    font-size: 1rem;  /*Day Five*/
+    font-weight: bold;  /*Day Five*/
+    font-family: cursive, sans-serif;  /*Dav Five*/
+    text-align: center;  /*Day Five*/
 }
 
 #poem {
     color: darkgreen;
+}
+
+/*Day Five*/
+.computer {
+    border: 10px dashed gray;
+    padding: 10px;
 }
